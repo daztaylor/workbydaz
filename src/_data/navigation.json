@@ -12,12 +12,13 @@
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/andybelldesign",
+      "url": "https://twitter.com/mrdaztaylor",
       "external": true
     },
     {
       "text": "Dribbble",
-      "url": "/dribbble"
+      "url": "/dribbble/moosterbrewster",
+      "external": true
     }
   ]
 }
