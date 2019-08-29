@@ -1,7 +1,7 @@
 ---
 layout: home
 title: How do you do
-postsHeading: Latest posts
+postsHeading: Selected Work
 archiveButtonText: See all posts
 socialImage: ''
 ---
