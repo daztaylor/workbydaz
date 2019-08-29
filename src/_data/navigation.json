@@ -6,13 +6,18 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andybelldesign/hylia",
-      "external": true
+      "text": "About me",
+      "url": "about-daz",
+      "external": false
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/andybelldesign",
+      "url": "https://twitter.com/mrdaztaylor",
+      "external": true
+    },
+    {
+      "text": "Dribbble",
+      "url": "/dribbble/moosterbrewster",
       "external": true
     }
   ]
