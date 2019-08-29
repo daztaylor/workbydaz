@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Howdo, I''m Darren (aka Daz) a digital designer'
+title: Some header
 postsHeading: Selected Work
 archiveButtonText: See all posts
 socialImage: ''
