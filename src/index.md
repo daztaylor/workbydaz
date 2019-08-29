@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Howdy
+title: How do you do
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
