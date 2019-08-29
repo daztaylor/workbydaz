@@ -1,12 +1,12 @@
 ---
 layout: home
-title: How do you do
-postsHeading: Latest posts
+title: >-
+  Howdo, I'm Darren (aka Daz) a mid 40's year old graphic (digital) problem
+  solver.
+postsHeading: Selected Work
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-[This is a link to another prototype](prototypes/BES-Mobile/index.html)
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia&stack=cms)
+I create clean, simple, usable digital products and services using common sense logic whilst questioning the latest industry gimmick or fad. I can code to a reasonable level and due to this I have an excellent understanding about the engineering process which feeds into my design process. 
+I always put the end user first and clearly communicate to other designers, engineers and senior stakeholders. I believe open thought and discussion and working-out-loud to get the best results.  I challenge preconceived ideas and am not afraid to be wrong if it ultimately leads to the right solution. 
+I keep my ego for the golf course.
