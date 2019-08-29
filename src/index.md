@@ -1,8 +1,6 @@
 ---
 layout: home
-title: >-
-  Howdo, I'm Darren (aka Daz) a mid 40's year old graphic (digital) problem
-  solver.
+title: 'Howdo, I''m Darren (aka Daz) a digital designer'
 postsHeading: Selected Work
 archiveButtonText: See all posts
 socialImage: ''
