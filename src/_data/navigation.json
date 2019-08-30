@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "text": "About me",
-      "url": "src/pages/about-me-2",
+      "text": "About",
+      "url": "about",
       "external": false
     },
     {
