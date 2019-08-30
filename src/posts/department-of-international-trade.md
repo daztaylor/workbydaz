@@ -7,6 +7,10 @@ tags:
 ---
 Working with GDS design framework to create the UX for a new Digital Workspace, connecting over 3,000 people in 108 countries. A key member of the agile team as the lead UI Designer / UX advisor, engaging directly with users, user researchers, content designers to leading on UX and UI design.
 
+
+
+
+
 * Embedded within the Goverment Digital Service team in Whitehall as the lead UI Designer / UX advisor within a High Performaning Team to deliver a intranet and people finder product supporting 3000+ Civil Servants around the globe.
 
 ![](/images/demo-image-1.jpg)
