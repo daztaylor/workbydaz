@@ -2,7 +2,7 @@
   "items": [
     {
       "text": "About me",
-      "url": "about-me-2",
+      "url": "src/pages/about-me-2",
       "external": false
     },
     {
