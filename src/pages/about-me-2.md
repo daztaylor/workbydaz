@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About me
-permalink: about-daz
+permalink: about-me-2
 socialImage: /images/demo-image-1.jpg
 ---
 Since 2008 I've worked for Door4 (link), a Digital Agency based in Burnley and Manchester. During this time I've created digital products and services for the UK Government, Local Councils, National Public information programmes, Childrens Services, National Charities, Large Ecommerce businesses and hundreds of SMEs. 
