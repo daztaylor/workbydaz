@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "text": "Work",
+      "url": "archive"
+    },
+    {
       "text": "About",
       "url": "about",
       "external": false
