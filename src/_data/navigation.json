@@ -18,6 +18,10 @@
       "text": "Dribbble",
       "url": "/dribbble/moosterbrewster",
       "external": true
+    },
+    {
+      "text": "example",
+      "url": "example"
     }
   ]
 }
