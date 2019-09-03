@@ -3,8 +3,6 @@ layout: layouts/post.njk
 title: The Planning Inspectorate
 date: 2019-09-02T17:24:42.940Z
 tags:
-  - Design
-  - Government
   - Product
 ---
 Three week secondment in Bristol as the Lead UX/UI designer for four Google Ventures style ‘Design Sprints’. Set within two teams planned out and deliver working prototypes for the digital transformation of the government department.
