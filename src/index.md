@@ -3,7 +3,7 @@ layout: home
 title: Some header
 postsHeading: Selected Work
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: /images/demo-image-2.jpg
 ---
 I have over 25 years experience in graphic and digital design, spending the last 12 years as part of the Door4 team. Combining skills in interface design, user experience and creative reasoning, to deliver usable, attractive interfaces and design patterns.
 
