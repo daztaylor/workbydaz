@@ -27,12 +27,12 @@ Operational Delivery Transformation – Product Owner
 I was part of a team of upto 12 Rainmakers +1 other subcontractor split into two teams, Bolt and Strike. I was primarily a member of Team Bolt, helping Team Strike when required.\
 There were to be 4 Sprints. We actually did 4.5 as we had some time to look at something that came out as a result of Sprint 4. They were broken down as follows;
 
-Sprint 1 - (Strike) Submission and Validation - The frontend form that an appellant uses to submit their appeal to the Inspectorate.\
-Sprint 2 - (Bolt) National Infrastructure Template - Currently a Word based reporting tool that Inspectors responsible for large Infrastructure projects (ie Heathrow/HS2) use to justify their findings and create a 100s of page report.\
-Sprint 3 - (Strike) Inspector view - An area in the portal where an Inspector can find out their workload, map events and see a 10 weekly schedule. Also a place for all documents and communications with the case officer.\
-Sprint 4 - (Bolt) Case Management and Allocation - Used primarily to support the Inspectors before they go to events and to ensure the case managers can process the case through the various stages required for the appeal which also included...\
-Sprint 4 - (Bolt) Programming - Scheduling the Inspectors workload and time \
-Sprint 4.5 - (Bolt) Time Calculator - This wasn’t planned but we had some time towards the end of week 3 and decided it was an important part of the jigsaw of what we’d done in weeks 1 and 2. This was an automated calculator based on a matrix that they currently have as a number of spreadsheets depending on the appeal and case type.  
+**Sprint 1** - (Strike) Submission and Validation - The frontend form that an appellant uses to submit their appeal to the Inspectorate.\
+**Sprint 2** - (Bolt) National Infrastructure Template - Currently a Word based reporting tool that Inspectors responsible for large Infrastructure projects (ie Heathrow/HS2) use to justify their findings and create a 100s of page report.\
+**Sprint 3** - (Strike) Inspector view - An area in the portal where an Inspector can find out their workload, map events and see a 10 weekly schedule. Also a place for all documents and communications with the case officer.\
+**Sprint 4** - (Bolt) Case Management and Allocation - Used primarily to support the Inspectors before they go to events and to ensure the case managers can process the case through the various stages required for the appeal which also included...\
+**Sprint 4** - (Bolt) Programming - Scheduling the Inspectors workload and time \
+**Sprint 4.5** - (Bolt) Time Calculator - This wasn’t planned but we had some time towards the end of week 3 and decided it was an important part of the jigsaw of what we’d done in weeks 1 and 2. This was an automated calculator based on a matrix that they currently have as a number of spreadsheets depending on the appeal and case type.  
 
 #### Who was involved?
 
