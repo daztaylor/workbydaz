@@ -15,7 +15,7 @@ Prior to November 2017 The DiT have thousands of civil servants around the with 
 
 #### My role
 
-I was sub-contracted in by our partner agency, Rainmaker.solutions to design a intranet and people finder product to support the 3000+ Civil Servants around the globe. Part of the 'High Performing Team', my role was to work with other UX service designers, policy makers and copywriters to deliver an effective and on brand user journey and interface. 
+I was sub-contracted in by our partner agency, Rainmaker.solutions as the UI designer for an intranet and people finder product to support the 3000+ Civil Servants around the globe. Part of the 'High Performing Team', my role was to work with other UX service designers, policy makers and copywriters to deliver an effective and on brand user journey and interface. 
 
 ![](/images/dit-sketch-2x.jpg "Sketching a solution for the FAQ accordion")
 
