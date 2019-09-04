@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Digital Problem Solver
+title: 'Howdo, I''m Daz. A Digital Problem Solver'
 postsHeading: ' '
 archiveButtonText: See all posts
 socialImage: /images/demo-image-2.jpg
