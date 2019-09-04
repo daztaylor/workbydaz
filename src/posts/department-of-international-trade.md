@@ -33,6 +33,6 @@ Shortly after completion almost 3000 Civil Servants had signed up to the new int
 
 #### What I learnt
 
-How to effectively plan, design and integrate with a large scale Design System (GDS). First real exposure to a 'true' Agile workflow, including daily standups; stories; sprints; user testing and feedback; show and tells and feedback. Also the first time I'd experienced Ruby and Headless development processes.
+How to effectively plan, design and integrate with a large scale Design System (GDS). First real exposure to a 'true' Agile workflow, including daily standups, stories, sprints, user testing, feedback and show and tell. Also the first time I'd experienced Ruby and Headless development processes.
 
-![](/images/dit-patch-launch-2x.jpg "I designed the 'project patch' and the launch party")
+![](/images/dit-patch-launch-2x.jpg "The 'project patch' which I conceived and illustrated and the launch party")
