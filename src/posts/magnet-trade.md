@@ -29,4 +29,12 @@ Ian is the marketing director for the whole of Magnet. Praise really doesn’t c
 
 ![](/images/magnet-visualisingmockup-2x.jpg "Sketching out one of the wireframes")
 
-![](/images/magnet-ipadmock-2x.jpg "I created a visual mock for the final client presentation.")
+### MVP for client approval
+
+<iframe src="https://player.vimeo.com/video/357422676" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+
+![](/images/magnet-ipadmock-2x.jpg "I created a visual mock for the client presentation with the MVP.")
