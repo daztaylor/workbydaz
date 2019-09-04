@@ -22,7 +22,9 @@ _2) His wider input into the sessions He wasn’t just a passive member of team 
 Tom Warth\
 Operational Delivery Transformation – Product Owner
 
-#### The process. Long read.
+I wrote about the process in detail to share with my team back at Door4.
+
+#### The process (Long read)
 
 I was part of a team of upto 12 Rainmakers +1 other subcontractor split into two teams, Bolt and Strike. I was primarily a member of Team Bolt, helping Team Strike when required.\
 There were to be 4 Sprints. We actually did 4.5 as we had some time to look at something that came out as a result of Sprint 4. They were broken down as follows;
@@ -36,7 +38,7 @@ There were to be 4 Sprints. We actually did 4.5 as we had some time to look at s
 
 #### Who was involved?
 
-Overseen by Rainmaker Client Director (Tom Millbrow) and Project Director (Russell Batchelor) and answering to the Director of Transformation and the Board, each team consisted of the following roles.
+Overseen by Rainmaker Client Director and Project Directorand answering to the Director of Transformation and the Board, each team consisted of the following roles.
 
 **The Decider / Product Chief (PINS Staff) -** 
 
@@ -60,7 +62,7 @@ Responsible for capturing all the notes, stickies, whiteboard sketches, photos a
 
 **Designer - (Me)**
 
-Contribute with exprience, ideas, sketches and storyboards during the sessions. Tasked with bringing all the captured sketches, post-it notes, storyboards and ideas into a tangible clickable prototype in InVision.  
+Contribute with exprience, ideas, sketches and storyboards during the sessions. Tasked with bringing all the captured sketches, post-it notes, storyboards and ideas into a tangible clickable prototype in InVision. Present the prototype to the organisation. 
 
 **Engineer -**
 
@@ -95,8 +97,14 @@ This despite our best efforts to assure them it didn’t matter how good they we
 
 The sketches were pinned to the whiteboards and individuals were given 1 minute to explain their thinking against the HMW’s from the day before. We then voted on the best ideas using small dot stickers. The ideas  with the most stickers was considered critical to the success of the prototype and were to be the direction of travel when drawing out our storyboard which would ultimately be replicated in our clickable prototype. 
 
+![](/images/pinns-moscow-mapping-2x.jpg "Fleshing out the MoSCoWs")
+
 **Day 3**\
 We all sketched, storyboarded challenged, changed and configured what would be on the screens for the prototype we’d be testing with the users on Friday.
+
+![](/images/pinns-userflow-ux-overview-2x.jpg "User flow and storyboarding")
+
+![](/images/pinns-programming-sketching-2x.jpg "Story boarding the case and inspector programming prototype")
 
 **Day 4**\
 Taking the finalised storyboard from the whiteboards we made a start on creating the prototype which would be tested on Friday. Artworked in Sketch and linked together using InVision, by the end of the day we had a clickable ‘good enough’ prototype. 
@@ -128,16 +136,20 @@ After lunch all the notes were grouped as necessary;
 * Out of scope notes
 * Future notes
 
+![](/images/pinns-user-testing-2x.jpg "User testing with real inspectors and staff")
+
 All this was then captured by the facilitators and entered into a spreadsheet for reporting to the final output. 
 
 At the end of day 5 some of the key stakeholders came into the war room for a demo and  to ask the PINS team how they thought the Design Sprint had gone (via an out of 10 points system). They were all very positive however their scores came in two parts reflecting our own concerns about the selected tool being fit for purpose. Also, they expressed the fact they were initially quite cynical about the whole process having been through various consultations over the years and nothing ever coming of it. They felt engaged and involved and mentioned on a few occasions how they didn’t feel their ideas were excluded due to their position or rank in the organisation.
 
 Based on Futures they all said they’d give it 8/9 out of 10 as they knew it was dependant on the tool used could do what we suggested it would. 
 
-National Infrastructure (NI) Sprint conclusions
+#### What I learnt
 
 This was a very positive experience all round. After initial reservations the onboarded PINS team really got into it from day 3 onwards. 
 
 A key member and contributor of the onboarded team was the Senior Inspector (Rynd Smith). He was brilliant. He had sufficient IT knowledge and experience of the job to know what questions to ask and also understood that we could be limited by budget and that would determine the selected tool. 
 
 All in all it was possibly one of the best working expriences of my career and I brought it back to our team to implement the ideas and shape our future process.
+
+![](/images/pinns-presenting-to-dept-2x.jpg "A nerveracking experience presenting to the whole organisation")
