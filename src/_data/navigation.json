@@ -2,16 +2,16 @@
   "items": [
     {
       "text": "Selected work",
-      "url": "archive"
+      "url": "http://www.daztaylor.co.uk/archive/"
     },
     {
       "text": "About",
-      "url": "about",
+      "url": "http://www.daztaylor.co.uk/about/",
       "external": false
     },
     {
       "text": "Dribbble",
-      "url": "/dribbble/moosterbrewster",
+      "url": "https://dribbble.com/daztaylor",
       "external": true
     }
   ]
