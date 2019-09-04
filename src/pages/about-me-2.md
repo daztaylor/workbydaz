@@ -14,11 +14,13 @@ Prior to my current role I worked in the print industry as a Graphic Designer an
 
 I'm a self learner, an inovator and am always looking to push my boundaries to take myself out of my comfort zone.
 
-## Away from work
+### Away from work
 
 Husband and Father of two, I like nothing better than spending time with my family. When not being the perfect role model husband and dad you'll find me cooking, gardening, swimming, watching gods own team or attempting to lower my handicap. I also have a strong sense of community bringing my skills and experience in digital to raise money for a local park fun day and helping to raise funds to send a local boy for a life improving operation.
 
 It's been a while since I applied for a position and as such my portfolio is very much WIP.
+
+### More work
 
 Along with the work case studies I have lots of other projects that haven't yet had a process written up about them. Some of my favourite can viewed as InVision Prototypes (best viewed on desktop), below.
 
