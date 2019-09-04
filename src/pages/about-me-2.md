@@ -19,3 +19,9 @@ I'm now looking for new opportunities and to broaden my horizons. I'm a self lea
 Husband and Father of two, I like nothing better than spending time with my family. When not being the perfect role model husband and dad you'll find me cooking, gardening, swimming, watching gods own team or attempting to lower my handicap. I also have a strong sense of community bringing my skills and experience in digital to raise money for a local park fun day and helping to raise funds to send a local boy for a life improving operation.
 
 It's been a while since I applied for a position and as such my portfolio is very much WIP.
+
+Along with the work case studies I have lots of other projects that haven't yet had a process written up about them. Some of my favourite can viewed as InVision Prototypes (best viewed on desktop), below.
+
+* Catexel (Chemicals) [Mobile](https://invis.io/TV6LKZ99F) [Desktop](https://invis.io/6BTR1GOFKCZ)
+* [BES](https://invis.io/K6TR1EMC8JR) (e-commerce)
+*
