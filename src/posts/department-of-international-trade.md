@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Department of International Trade
-date: 2019-08-29T10:28:23.426Z
+date: 2019-09-03T10:28:23.426Z
 tags:
   - Government
 ---
@@ -9,17 +9,30 @@ Working with GDS design framework to create the UX for a new Digital Workspace, 
 
 <iframe src="https://player.vimeo.com/video/357398578" width="640" height="362" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-* Embedded within the Goverment Digital Service team in Whitehall as the lead UI Designer / UX advisor within a High Performaning Team to deliver a intranet and people finder product supporting 3000+ Civil Servants around the globe.
+#### The problem
 
-![](/images/demo-image-1.jpg)
+Prior to November 2017 The DiT have thousands of civil servants around the with little direct communication due to outdated internal systems. At a very sensitive time due to Brexit the department were under pressure from Ministers to show future deals were possible and a new way of communicating was needed.
 
-* Fully functioning responsive MVP within the 8 week timeline, delivered ontime to a explicit deadline (15th November 2017)
+#### My role
 
-![](/images/demo-image-2.jpg)
+I was sub-contracted in by our partner agency, Rainmaker.solutions to design a intranet and people finder product to support the 3000+ Civil Servants around the globe. Part of the 'High Performing Team', my role was to work with other UX service designers, policy makers and copywriters to deliver an effective and on brand user journey and interface. 
 
-* Asimilation of GDS design framework and Department of International Trade brand team
-* Working as part of a distributed team of 20+ Including User Researchers, Service Designers, Product Managers, Business Analysts UX Architects, Content Designers, Technical Architects, Ruby and Front end developers
-* Agile work process
-* Presentation of Show and Tells to the wider Digital team
-* Daily stand ups communicating progress, delivery and blockers
-* Illustrated the project patch for the team ‘stickers'
+![](/images/dit-sketch-2x.jpg "Sketching a solution for the FAQ accordion")
+
+![](/images/dit-wireframe-2x.jpg "Wireframing the home page")
+
+![](/images/dit-userjourney-2x.jpg "Site mapping the potential user experience")
+
+My prior experience of designing and building Wordpress products helped me suggest and design familiar WP userflows, patterns and templates.
+
+#### The outcome
+
+Shortly after completion almost 3000 Civil Servants had signed up to the new intranet and completed their profile.
+
+![](/images/dit-stats-2x.jpg "User stats shortly after launch")
+
+#### What I learnt
+
+How to effectively plan, design and integrate with a large scale Design System (GDS). First real exposure to a 'true' Agile workflow, including daily standups; stories; sprints; user testing and feedback; show and tells and feedback. Also the first time I'd experienced Ruby and Headless development processes.
+
+![](/images/dit-patch-launch-2x.jpg "I designed the 'project patch' and the launch party")
