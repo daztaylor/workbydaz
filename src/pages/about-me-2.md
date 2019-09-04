@@ -14,7 +14,15 @@ Prior to my current role I worked in the print industry as a Graphic Designer an
 
 I'm a self learner, an inovator and am always looking to push my boundaries to take myself out of my comfort zone.
 
-### Away from work
+#### Skill cloud
+
+Sketchapp; Whiteboarding; Balsamiq; InVision; Keynote; After Effects; Eleventy; Netlify CMS; Photoshop; Illustrator; InDesign; Wordpress; WooCommerce; Magento;
+
+#### Actively learning
+
+FramerX; Figma; Adobe XD
+
+#### Away from work
 
 Husband and Father of two, I like nothing better than spending time with my family. When not being the perfect role model husband and dad you'll find me cooking, gardening, swimming, watching gods own team or attempting to lower my handicap. I also have a strong sense of community bringing my skills and experience in digital to raise money for a local park fun day and helping to raise funds to send a local boy for a life improving operation.
 
@@ -26,5 +34,25 @@ Along with the work case studies I have lots of other projects that haven't yet 
 
 * Catexel (Chemicals) [Mobile](https://invis.io/TV6LKZ99F) [Desktop](https://invis.io/6BTR1GOFKCZ)
 * [BES](https://invis.io/K6TR1EMC8JR) (e-commerce)
+
+To come...
+
+* \- The Silver Line
+  \- Institute of Apprenticeships
+  \- Thwaites Careers pitch
+  \- Tangerine Agency
+  \- Toyota
+  \- Sterling Lloyd
+  \- EGO
+  \- Thinksmart
+  \- DUO
+  \- Refinery
+  \- Architect Your Home
+  \- Knowhow Upgrade anytime form
+  \- BES
+  \- Elexon
+  \- Social Spaces
+  \- Revilo
+  \- Sandylands
 
 More to follow...
