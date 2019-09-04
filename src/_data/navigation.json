@@ -1,18 +1,13 @@
 {
   "items": [
     {
-      "text": "Work",
+      "text": "Selected work",
       "url": "archive"
     },
     {
       "text": "About",
       "url": "about",
       "external": false
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/mrdaztaylor",
-      "external": true
     },
     {
       "text": "Dribbble",
