@@ -23,10 +23,10 @@ Ian is the marketing director for the whole of Magnet. Praise really doesn’t c
 
 ![](/images/magnet-originalform-2x.jpg "The original paper form used by the interior design sales team")
 
-![](/images/magnet-mappingtheform.jpg "Mapping out the steps of form on the whiteboard during the first workshop")
+![](/images/magnet-mappingtheform-2x.jpg "Mapping out the steps of form on the whiteboard during the first workshop")
 
-![](/images/magnet-visualisingsteps.jpg "Visualising the components and the user flow")
+![](/images/magnet-visualisingsteps-2x.jpg "Visualising the components and the user flow")
 
-![](/images/magnet-visualisingmockup.jpg "Sketching out one of the wireframes")
+![](/images/magnet-visualisingmockup-2x.jpg "Sketching out one of the wireframes")
 
-![](/images/magnet-ipadmock.jpg "I created a visual mock for the final client presentation.")
+![](/images/magnet-ipadmock-2x.jpg "I created a visual mock for the final client presentation.")
