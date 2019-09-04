@@ -18,7 +18,7 @@ I'm a self learner, an inovator and am always looking to push my boundaries to t
 
 Husband and Father of two, I like nothing better than spending time with my family. When not being the perfect role model husband and dad you'll find me cooking, gardening, swimming, watching gods own team or attempting to lower my handicap. I also have a strong sense of community bringing my skills and experience in digital to raise money for a local park fun day and helping to raise funds to send a local boy for a life improving operation.
 
-It's been a while since I applied for a position and as such my portfolio is very much WIP.
+This portfolio is very much a MVP, WIP. :)
 
 ### More work
 
