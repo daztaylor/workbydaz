@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Department of International Trade
-date: 2019-09-03T10:28:23.426Z
+date: 2019-09-03T00:28:00.000Z
 tags:
   - Government
 ---
@@ -15,7 +15,7 @@ Prior to November 2017 The DiT have thousands of civil servants around the with 
 
 #### My role
 
-I was sub-contracted in by our partner agency, Rainmaker.solutions to design a intranet and people finder product to support the 3000+ Civil Servants around the globe. Part of the 'High Performing Team', my role was to work with other UX service designers, policy makers and copywriters to deliver an effective and on brand user journey and interface. 
+I was sub-contracted in by our partner agency, Rainmaker.solutions as the UI designer for an intranet and people finder product to support the 3000+ Civil Servants around the globe. Part of the 'High Performing Team', my role was to work with other UX service designers, policy makers and copywriters to deliver an effective and on brand user journey and interface. 
 
 ![](/images/dit-sketch-2x.jpg "Sketching a solution for the FAQ accordion")
 
@@ -33,6 +33,6 @@ Shortly after completion almost 3000 Civil Servants had signed up to the new int
 
 #### What I learnt
 
-How to effectively plan, design and integrate with a large scale Design System (GDS). First real exposure to a 'true' Agile workflow, including daily standups; stories; sprints; user testing and feedback; show and tells and feedback. Also the first time I'd experienced Ruby and Headless development processes.
+How to effectively plan, design and integrate with a large scale Design System (GDS). First real exposure to a 'true' Agile workflow, including daily standups, stories, sprints, user testing, feedback and show and tell. Also the first time I'd experienced Ruby and Headless development processes.
 
-![](/images/dit-patch-launch-2x.jpg "I designed the 'project patch' and the launch party")
+![](/images/dit-patch-launch-2x.jpg "The 'project patch' which I conceived and illustrated and the launch party")
