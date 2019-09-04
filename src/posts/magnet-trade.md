@@ -21,4 +21,4 @@ Ian is the marketing director for the whole of Magnet. Praise really doesn’t c
 
 ### Solving the problem
 
-![](/images/magnet-originalform-2x.jpg)
+![](/images/magnet-originalform-2x.jpg "The original paper form used by the interior design sales team")
