@@ -4,7 +4,7 @@ title: About
 permalink: /about/index.html
 socialImage: ''
 ---
-Since 2008 I've worked for Door4 (link), a Digital Agency based in Burnley and Manchester. During this time I've created digital products and services for the UK Government, Local Councils, National Public information programmes, Childrens Services, National Charities, Large Ecommerce businesses and hundreds of SMEs. 
+Since 2008 I've worked for Door4, a Digital Agency based in Burnley and Manchester. During this time I've created digital products and services for the UK Government, Local Councils, National Public information programmes, Childrens Services, National Charities, Large Ecommerce businesses and hundreds of SMEs. 
 
 [I recently wrote about my current working process on Medium.](https://medium.com/@moosterbrewster/my-process-26923838d0ee)
 
@@ -40,21 +40,21 @@ Along with the work case studies I have lots of other projects that haven't yet 
 To come...
 
 * \- The Silver Line
-  - Institute of Apprenticeships
-  - Thwaites Careers pitch
-  - Tangerine Agency
-  - Toyota
-  - Sterling Lloyd
-  - EGO
-  - Thinksmart
-  - DUO
-  - Refinery
-  - Architect Your Home
-  - Knowhow Upgrade anytime form
-  - BES
-  - Elexon
-  - Social Spaces
-  - Revilo
-  - Sandylands
+  * Institute of Apprenticeships
+  * Thwaites Careers pitch
+  * Tangerine Agency
+  * Toyota
+  * Sterling Lloyd
+  * EGO
+  * Thinksmart
+  * DUO
+  * Refinery
+  * Architect Your Home
+  * Knowhow Upgrade anytime form
+  * BES
+  * Elexon
+  * Social Spaces
+  * Revilo
+  * Sandylands
 
 More to follow...
