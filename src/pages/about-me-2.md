@@ -41,22 +41,21 @@ Along with the work case studies I have lots of other projects that haven't yet 
 
 To come...
 
-* \- The Silver Line
-  * Institute of Apprenticeships
-  * Thwaites Careers pitch
-  * Tangerine Agency
-  * Toyota
-  * Sterling Lloyd
-  * EGO
-  * Thinksmart
-  * DUO
-  * Refinery
-  * Architect Your Home
-  * Knowhow Upgrade anytime form
-  * BES
-  * Elexon
-  * Social Spaces
-  * Revilo
-  * Sandylands
+* The Silver Line
+* Thwaites Careers pitch
+* Tangerine Agency
+* Toyota
+* Sterling Lloyd
+* EGO
+* Thinksmart
+* DUO
+* Refinery
+* Architect Your Home
+* Knowhow Upgrade anytime form
+* BES
+* Elexon
+* Social Spaces
+* Revilo
+* Sandylands
 
 More to follow...
