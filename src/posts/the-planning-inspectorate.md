@@ -5,7 +5,7 @@ date: 2019-09-04T17:24:42.940Z
 tags:
   - Product
 ---
-Three week secondment in Bristol as the Lead UX/UI designer for four Google Ventures style ‘Design Sprints’. Set within two teams planned out and deliver working prototypes for the digital transformation of the government department.
+Three week secondment in Bristol as the UX/UI designer for four Google Ventures style ‘Design Sprints’. Set within two teams planned out and deliver working prototypes for the digital transformation of the government department.
 
 * 4 separate Design Sprints
 * Collaborated with Inspectors, Directors, Senior Managers, Delivery Managers,
