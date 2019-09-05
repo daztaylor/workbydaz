@@ -1,7 +1,7 @@
 {
   "showThemeCredit": false,
   "name": "Darren Taylor (mvp)",
-  "shortDesc": "Beta portfolio of Daz Taylor, UX and UI Designer based in Stockport, UK. Site built using the Hylia Starter Kit by andybelldesign.",
+  "shortDesc": "MVP portfolio of Daz Taylor, UX and UI Designer based in Stockport, UK. Site built using the Eleventy Hylia Starter Kit and NetlifyCMS.",
   "url": "https://daztaylor.co.uk",
   "authorEmail": "hello@daztaylor.co.uk",
   "authorHandle": "@mrdaztaylor",
