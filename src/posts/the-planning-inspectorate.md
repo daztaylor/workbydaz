@@ -5,11 +5,11 @@ date: 2019-09-04T17:24:42.940Z
 tags:
   - Product
 ---
-Three week secondment in Bristol as the UX/UI designer for four Google Ventures style ‘Design Sprints’. Set within two teams planned out and deliver working prototypes for the digital transformation of the government department.
+Three week secondment in Bristol as the UX/UI designer for four Google Ventures style ‘Design Sprints’. Set within two teams to plan, design and deliver working prototypes for the digital transformation of the government organisation.
 
 * 4 separate Design Sprints
-* Collaborated with Inspectors, Directors, Senior Managers, Delivery Managers,
-* Presented initial concepts to stakeholders, directors and members of staff which have been taken forward to inform the technology stack and costing.
+* Collaborated with Civil Servants, Inspectors, Directors, Senior Managers and Delivery Managers,
+* Presented initial concepts to Stakeholders, Directors and members of staff were then taken forward to inform the technology stack and costing.
 
 #### The MVP prototype
 
@@ -42,7 +42,7 @@ There were to be 4 Sprints. We actually did 4.5 as we had some time to look at s
 
 #### Who was involved?
 
-Overseen by Rainmaker Client Director and Project Directorand answering to the Director of Transformation and the Board, each team consisted of the following roles.
+Overseen by the Rainmaker Client and Project Directors and answering to the Director of Transformation and the Board, each team consisted of the following roles.
 
 **The Decider / Product Chief (PINS Staff) -** 
 
@@ -50,7 +50,7 @@ Senior member of the PINS Digital Management Team tasked with approving key deci
 
 **Customer Rep (PINS Staff) -** 
 
-Number varied depending on the Sprint but usually 3-5 members of the PINS staff from different areas and positions from within the organisation. Their role was to educate with what they currently did and how they thought it should change for the better.
+Number varied depending on the Sprint but usually 3-5 members of the PINS staff from different areas and positions from within the organisation. Their role was to educate us with their current practice and how they thought it should change for the better.
 
 **Lead Facilitator -** 
 
@@ -66,13 +66,13 @@ Responsible for capturing all the notes, stickies, whiteboard sketches, photos a
 
 **Designer - (Me)**
 
-Contribute with exprience, ideas, sketches and storyboards during the sessions. Tasked with bringing all the captured sketches, post-it notes, storyboards and ideas into a tangible clickable prototype in InVision. Present the prototype to the organisation. 
+Contribute with experience, ideas, sketches and storyboards during the sessions. Tasked with bringing all the captured sketches, post-it notes, storyboards and ideas into a tangible clickable, designed prototype in InVision. Present the prototype to the organisation. 
 
 **Engineer -**
 
 Technical expertise from a GDS (Government Digital Service) guidelines point of view culminating with a prototyping a live interface built out from the GDS framework.
 
-Sparkle Engineering was a term that was introduced early in the process by the Client Director and became synonymous with our thinking throughout.  KISS (Keep it Simple Stupid) was another favourite.
+\*Sparkle Engineering was a term that was introduced early in the process by the Client Director and became synonymous with our thinking throughout.  KISS (Keep it Simple Stupid) was another favourite.
 
 #### Ok, thats the background. So, what happened then?
 
@@ -93,11 +93,9 @@ Round the room we went and sites were suggested and pulled up and we spent the m
 
 Then, in the afternoon, each person will sketch, following a four-step process that emphasizes critical thinking over artistry.
 
-_‘Each person will Sketch’._ 
+_‘Each person will Sketch’._ - This was the first pain point. 
 
-This was the first pain point. 
-
-This despite our best efforts to assure them it didn’t matter how good they were, 3 out of the 5 members of the PINS team weren’t comfortable at all with showing their artistic abilities and were quite resistant to the idea of having to draw out their ideas. 
+Despite our best efforts to assure them it didn’t matter how good they were, 3 out of the 5 members of the PINS team weren’t comfortable at all with showing their artistic abilities and were quite resistant to the idea of having to draw out their ideas. 
 
 The sketches were pinned to the whiteboards and individuals were given 1 minute to explain their thinking against the HMW’s from the day before. We then voted on the best ideas using small dot stickers. The ideas  with the most stickers was considered critical to the success of the prototype and were to be the direction of travel when drawing out our storyboard which would ultimately be replicated in our clickable prototype. 
 
@@ -123,7 +121,7 @@ Myself and the Delivery Manager had some concerns about the tool we’d need to 
 * Publishing to PDF
 * Related file management and structure
 
-After a late meeting on Thursday night with the Client Director and Project Director we all agreed there were products on the market that could deliver these features so, we continued with the testing as scheduled on Friday.
+> After a late meeting on Thursday night with the Client Director and Project Director we all agreed there were products on the market that could deliver these features so, we continued with the testing as scheduled on Friday.
 
 **Day 5 - Testing the NI template**
 
@@ -148,11 +146,13 @@ At the end of day 5 some of the key stakeholders came into the war room for a de
 
 Based on Futures they all said they’d give it 8/9 out of 10 as they knew it was dependant on the tool used could do what we suggested it would. 
 
+We repeated this process with different members of the organisation for the remaining sprints.
+
 #### What I learnt
 
 This was a very positive experience all round. After initial reservations the onboarded PINS team really got into it from day 3 onwards. 
 
-A key member and contributor of the onboarded team was the Senior Inspector (Rynd Smith). He was brilliant. He had sufficient IT knowledge and experience of the job to know what questions to ask and also understood that we could be limited by budget and that would determine the selected tool. 
+A key member and contributor of the onboarded team was the Senior Inspector. He was brilliant. He had sufficient IT knowledge and experience of the job to know what questions to ask and also understood that we could be limited by budget and that would determine the selected tool. A very expert witness (user).
 
 All in all it was possibly one of the best working expriences of my career and I brought it back to our team to implement the ideas and shape our future process.
 
