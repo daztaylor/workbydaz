@@ -5,7 +5,7 @@ postsHeading: ' '
 archiveButtonText: See all posts
 socialImage: ''
 ---
-I have over 25 years experience in graphic and digital design, spending the last 12 years as a key member of the Door4 team. I Combine skills in interface design, user experience, creative reasoning and problem solving to deliver usable, attractive interfaces and design patterns.
+I have over 25 years experience in graphic and digital design, spending the last 12 years as a key member of the Door4 team. Combining skills in interface design, user experience, creative reasoning and problem solving to deliver usable, attractive interfaces and design patterns.
 
 Recent engagements include involvement in agile, disruptive processes being embedded in a number of Government departments, working on large scale E-commerce projects, engineering a Design Process to help and educate my teams and many sites and products for small and medium sized enterprises.
 
