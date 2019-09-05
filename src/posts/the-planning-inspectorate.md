@@ -154,6 +154,6 @@ This was a very positive experience all round. After initial reservations the on
 
 A key member and contributor of the onboarded team was the Senior Inspector. He was brilliant. He had sufficient IT knowledge and experience of the job to know what questions to ask and also understood that we could be limited by budget and that would determine the selected tool. A very expert witness (user).
 
-> All in all it was possibly one of the best working expriences of my career and I brought it back to our team to implement the ideas and shape our future process.
+> All in all it was possibly one of the best working experiences of my career and I brought it back to our team to implement the ideas and shape our future process.
 
 ![](/images/pinns-presenting-to-dept-2x.jpg "A nerveracking experience presenting to the whole organisation")
