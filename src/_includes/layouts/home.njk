@@ -8,8 +8,8 @@
 {% endset %}
 
 {# Post list content #}
-{#% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %#}
+{% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %}
 
 {# Archive link #}
 {% if postListItems.length < collections.posts.length %} 
@@ -17,10 +17,47 @@
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
 
-{% block content %}
+{# {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
     {% include "partials/components/post-list.njk" %}
     {% include "partials/components/pagination.njk" %}
   </main>
+{% endblock %} #}
+
+{% block content %}
+<main id="main-content" tabindex="-1">
+<header class="[ intro ] [ pad-top-900 pad-bottom-max ]">
+  <div class="[ inner-wrapper ] [ sf-flow ]">
+    <h1 class="[ intro__heading{{ ' intro__heading--compact' if page.url === '/' }} ] [ text-800 md:text-900 leading-tight ] [ p-name ]">{{ introHeading }}</h1>
+    {% if introSummary %}
+      <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">{{ introSummary | safe }}</div>
+    {% endif %}
+  </div>
+</header>
+
+<div class="[ inner-wrapper ] [ sf-flow ]">
+  <h3>What I've been up to</h3>
+  <p>Recent engagements include: involvement in agile, disruptive processes; secondments in a number of Government departments, working on large scale E-commerce projects; creating a Design Process to help and educate my teams; the workshop, wireframe and design of many sites and products for small and medium sized enterprises.
+</p>
+{% if postListItems.length %}
+  <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+      <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
+      <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
+        {% for item in postListItems %}
+          {% if item.date.getTime() <= global.now %}
+            <li class="post-list__item">
+              <h3 class="font-base leading-tight text-600 weight-mid">
+                <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+              </h3>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ol>
+    </div>
+  </section>
+{% endif %}
+</div>
+</main>
 {% endblock %}

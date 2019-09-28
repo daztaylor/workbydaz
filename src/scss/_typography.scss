@@ -9,13 +9,20 @@
 }
 */
 /* lora-700 - latin */
+
 @font-face {
   font-family: 'Nunito';
+  src: url('/fonts/Nunito-ExtraBold.woff2') format('woff2'),
+      url('/fonts/Nunito-ExtraBold.woff') format('woff');
+  font-weight: bold;
   font-style: normal;
-  font-weight: 700;
-  src: local('Nunito'), local('Nunito-Bold'),
-    url('/fonts/Nunito-SemiBold.woff') format('truetype'),
-    url('/fonts/Nunito-SemiBold.woff') format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  src: url('/fonts/Nunito-Regular.woff2') format('woff2'),
+      url('/fonts/Nunito-Regular.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
 }
 
 body {
