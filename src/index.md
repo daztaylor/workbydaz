@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Darren aka Daz. A time-served digital specialist. '
+title: 'Howdo, I''m Darren aka Daz. A time-served digital specialist. '
 postsHeading: ' '
 archiveButtonText: See all posts
 socialImage: ''
