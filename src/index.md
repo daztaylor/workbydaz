@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'aka Daz, a Digital Designer'
+title: 'Darren aka Daz. A time-served digital specialist. '
 postsHeading: ' '
 archiveButtonText: See all posts
 socialImage: ''
