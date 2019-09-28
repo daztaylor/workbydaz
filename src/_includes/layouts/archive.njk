@@ -2,11 +2,11 @@
 {% set pageType = 'Selected Work' %}
 
 {# Intro content #}
-{% set introHeading = title %}
+{#% set introHeading = title %#}
 {% set introSummary %}{{ content | safe }}{% endset %}
 
 {# Post list content #}
-{# {% set postListHeading = 'Recent work' %}#}
+{% set postListHeading = 'Recent work' %}
 {% set postListItems = collections.posts %}
 
 {% block content %}
