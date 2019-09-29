@@ -62,10 +62,3 @@ module.exports = function(config) {
     passthroughFileCopy: true
   };
 };
-
-module.exports = function (eleventyConfig) {
-  eleventyConfig.addShortcode('first_image', post => extractFirstImage(post));
-
-  // …
-};
-
