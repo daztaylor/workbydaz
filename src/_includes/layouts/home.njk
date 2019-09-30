@@ -46,16 +46,10 @@
   <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
     <div class="[ inner-wrapper ] [ sf-flow ]">
       <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
-      <ol class="[ post-list__items ][ box-flex columns space-between align-start ]" reversed>
+      <ol class="[ post-list__items ]" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
-            <img
-            srcset="https://raw.githubusercontent.com/daztaylor/workbydaz/master/src/images/dit-patch-launch-2x.jpg"
-            sizes="(min-width: 48em) 48em, 100vw"
-            src="https://raw.githubusercontent.com/daztaylor/workbydaz/master/src/images/dit-patch-launch-2x.jpg"
-            alt="Me, as Mister Potato Head"
-            />
               <h3 class="font-base leading-tight text-600 weight-mid">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
               </h3>

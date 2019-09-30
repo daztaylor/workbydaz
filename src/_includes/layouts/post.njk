@@ -13,6 +13,14 @@
 {% endset %}
 
 {% block content %}
+
+{# <img
+            srcset="{{site.coverImage}}hi"
+            sizes="(min-width: 48em) 48em, 100vw"
+            src="{{ item.data.coverImage }}"
+            alt="Me, as Mister Potato Head"
+            /> #}
+
   <main id="main-content" tabindex="-1">
     <article class="[ post ] [ h-entry ]">
       {% include "partials/components/intro.njk" %}
