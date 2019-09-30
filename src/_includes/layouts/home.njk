@@ -40,13 +40,13 @@
 
 <div class="[ inner-wrapper ] [ sf-flow ]">
   <h3>What I've been up to</h3>
-  <p class="[ text-400 md:text-400 ]">Recent engagements include: involvement in agile, disruptive processes; secondments in a number of Government departments, working on large scale E-commerce projects; creating a Design Process to help and educate my teams; the workshop, wireframe and design of many sites and products for small and medium sized enterprises.
+  <p class="[ text-500 md:text-500 ]">Recent engagements include: involvement in agile, disruptive processes; secondments in a number of Government departments, working on large scale E-commerce projects; creating a Design Process to help and educate my teams; the workshop, wireframe and design of many sites and products for small and medium sized enterprises.
 </p>
 {% if postListItems.length %}
   <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
     <div class="[ inner-wrapper ] [ sf-flow ]">
       <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
-      <ol class="[ post-list__items ]" reversed>
+      <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
@@ -63,3 +63,6 @@
 </div>
 </main>
 {% endblock %}
+
+
+
