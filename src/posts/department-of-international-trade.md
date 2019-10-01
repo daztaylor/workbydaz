@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Department of International Trade
 socialImage: ''
-coverImage: /images/dit-sketch-2x.jpg
+coverImage: /images/dit-2x.png
 date: 2019-09-03T00:28:00.000Z
 tags:
   - Government
