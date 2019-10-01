@@ -32,6 +32,15 @@ main {
 }
 
 
+.two-column {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .two-column>* {
+          flex: 0 0 50%;
+      }
+
 hr {
   display: block;
   height: 1px;
