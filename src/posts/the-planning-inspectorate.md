@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: The Planning Inspectorate
-coverImage: /images/dit-patch-launch-2x.jpg
+coverImage: /images/pins-2x.png
 date: 2019-09-04T17:24:42.940Z
 tags:
   - Product
