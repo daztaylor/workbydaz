@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Magnet Trade
+coverImage: /images/magnet-2x.png
 date: 2019-09-02T17:34:50.235Z
 tags:
   - Retail
