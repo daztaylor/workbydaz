@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Newham Borough Council
+coverImage: /images/newham-2x.png
 date: 2019-09-03T17:27:29.573Z
 tags:
   - Local Government
