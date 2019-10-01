@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 title: at800 (DMSL)
 metaDesc: This is a test entry
+coverImage: /images/at800-2x.png
 date: 2019-09-02T17:30:32.835Z
 tags:
   - Public
