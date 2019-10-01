@@ -50,10 +50,11 @@
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
-              <img src="{{item.data.coverImage}}" alt="Brand Logos">
+            <a href="{{ item.url }}" class="post-list__link" rel="bookmark"><img src="{{item.data.coverImage}}" alt="Brand Logos"></a>
+              {# <img src="{{item.data.coverImage}}" alt="Brand Logos">
               <h3 class="font-base leading-tight text-600 weight-mid">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
-              </h3>
+              </h3> #}
             </li>
           {% endif %}
         {% endfor %}
