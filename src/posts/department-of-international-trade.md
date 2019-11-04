@@ -13,11 +13,11 @@ Working with GDS design framework to create the UX for a new Digital Workspace, 
 
 #### The problem
 
-Prior to November 2017 The DiT have thousands of civil servants around the with little direct communication due to outdated internal systems. At a very sensitive time due to Brexit the department were under pressure from Ministers to show future deals were possible and a new way of communicating was needed.
+Prior to November 2017 The DiT have thousands of civil servants around the world with little direct communication due to outdated internal systems. At a very sensitive time due to Brexit the department were under pressure from Ministers to show future deals were possible and a new way of communicating was needed.
 
 #### My role
 
-I was sub-contracted in by our partner agency, Rainmaker.solutions as the UI designer for an intranet and people finder product to support the 3000+ Civil Servants around the globe. Part of the 'High Performing Team', my role was to work with other UX service designers, policy makers and copywriters to deliver an effective and on brand user journey and interface. 
+I was sub-contracted in by our partner agency, Rainmaker as the UI designer for an intranet and people finder product to support the 3000+ Civil Servants around the globe. Part of the 'High Performing Team', my role was to work with other UX service designers, policy makers and copywriters to deliver an effective and on brand user journey and interface. 
 
 ![](/images/dit-sketch-2x.jpg "Sketching a solution for the FAQ accordion")
 
@@ -35,6 +35,6 @@ Shortly after completion almost 3000 Civil Servants had signed up to the new int
 
 #### What I learnt
 
-How to effectively plan, design and integrate with a large scale Design System (GDS). First real exposure to a 'true' Agile workflow, including daily standups, stories, sprints, user testing, feedback and show and tell. Also the first time I'd experienced Ruby and Headless development processes.
+How to effectively plan, design and integrate with a large scale Design System (GDS). First real exposure to a 'true' Agile workflow, including daily standups, stories, sprints, user testing, feedback and show and tell. Also the first time I'd experienced Ruby and headless development processes.
 
 ![](/images/dit-patch-launch-2x.jpg "The 'project patch' which I conceived and illustrated and the launch party")
