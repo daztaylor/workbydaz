@@ -18,7 +18,7 @@ I'm a self learner, an inovator and am always looking to push my boundaries to t
 
 #### Skill cloud
 
-Sketchapp; Whiteboarding; Balsamiq; InVision; Keynote; After Effects; Eleventy; Netlify CMS; Photoshop; Illustrator; InDesign; Wordpress; WooCommerce; Magento;
+Sketch; Whiteboarding; Balsamiq; InVision; Keynote; After Effects; Eleventy; Netlify CMS; Photoshop; Illustrator; InDesign; Wordpress; WooCommerce; Magento; html; CSS; Basic Javascript.
 
 #### Actively learning
 
