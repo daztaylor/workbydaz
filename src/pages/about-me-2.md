@@ -8,7 +8,7 @@ Since 2008 I've worked for Door4, a Digital Agency based in Burnley and Manchest
 
 [I recently wrote about my current working process on Medium.](https://medium.com/@moosterbrewster/my-process-26923838d0ee)
 
-I've collaborated, advised and designed products with partner digital and service agencies such as Refinery, Ampersand and Rainmaker. I've ran training show-and-tells to help colleagues and peers understand digital better and how to improve thier workflow.
+I've collaborated, advised and designed products with partner digital and service agencies such as Refinery, Ampersand and Rainmaker. I've ran training show-and-tells to help colleagues and peers understand digital better and how to improve their workflow.
 
 I've managed teams of designers, developers and collaborated with project managers, service designers, sales teams and marketeers, directors and senior stakeholders.
 
@@ -26,9 +26,9 @@ FramerX; Figma; Adobe XD
 
 #### Away from work
 
-Husband and Father of two, I like nothing better than spending time with my family. When not being a family man  you'll find me cooking, gardening, swimming, watching gods own team or attempting to lower my handicap.
+Husband and Father of two, I like nothing better than spending time with my family. When not being a family man you'll find me cooking, gardening, swimming, watching gods own team or attempting to lower my handicap.
 
-I also have a strong sense of community bringing my skills and experience within  digital to help raise money for a local park charity  and many other worthy causes.
+I also have a strong sense of community bringing my skills and experience within  digital to help raise money for a local park charity and many other worthy causes.
 
 This portfolio is very much a MVP, WIP. :)
 
