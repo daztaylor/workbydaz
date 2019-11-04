@@ -22,7 +22,7 @@ Sketch; Whiteboarding; Balsamiq; InVision; Keynote; After Effects; Eleventy; Net
 
 #### Actively learning
 
-Flexbox; FramerX; Figma; Adobe XD; Green Sock; Swift UI; React (Theory)
+Flexbox; FramerX; Figma; Adobe XD; Green Sock; Swift UI; React (theory)
 
 #### Away from work
 
